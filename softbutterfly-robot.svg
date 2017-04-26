@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg4811"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   sodipodi:docname="softbutterfly-robot.svg"
+   inkscape:version="0.92.0 r">
+  <metadata
+     id="metadata4817">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4815">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6674"
+       x="-0.035999998"
+       width="1.072"
+       y="-0.035999998"
+       height="1.072">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.5"
+         id="feGaussianBlur6676" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview4813"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.40966797"
+     inkscape:cx="365.95511"
+     inkscape:cy="254.26651"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4811"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="426.95067,832.24696"
+       orientation="0,1"
+       id="guide5232"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="483.81876,823.57217"
+       orientation="0,1"
+       id="guide5234"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="480.28458,798.83295"
+       orientation="0,1"
+       id="guide5236"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="532.42513,888.77467"
+       orientation="0,1"
+       id="guide5238"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect5682"
+     width="1024"
+     height="1024"
+     x="0"
+     y="0"
+     ry="1.0022352"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     transform="translate(-763.98136,-38.106165)"
+     id="g6300"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;filter:url(#filter6674)"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.74459183;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle6248"
+       cx="1592.5623"
+       cy="867.38489"
+       r="150" />
+    <g
+       id="g6298"
+       transform="matrix(0.64158603,0,0,0.64158603,619.63711,314.09705)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6250"
+         d="m 1505.5559,876.68372 11.6594,-13.80428 8.9907,12.57458"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:connector-curvature="0"
+         id="path6252"
+         d="m 1523.495,807.75077 12.7065,-28.0156 -8.2216,-5.16076 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:connector-curvature="0"
+         id="path6254"
+         d="m 1509.452,807.74196 -12.7062,-28.01559 8.2216,-5.16077 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6256"
+         d="m 1506.7244,919.38646 0.5467,0.54126 -34.5498,58.96178 -48.8086,-11.35961 -17.5499,-55.17523 30.163,-47.06126 -42.2281,0.54126 -12.6132,-57.87984 -19.7429,-21.09647 2.7416,-42.1928 59.7775,14.60519 80.6166,61.12554 -121.8342,-13.01227 43.3765,-47.41894 -31.2248,105.32866"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6258"
+         d="m 1364.8838,744.15802 16.2541,63.2552"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:connector-curvature="0"
+         id="path6260"
+         d="m 1362.4916,785.77582 64.1648,-24.88294"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path6262"
+         d="m 1504.5307,820.3956 -67.9255,44.96139 67.9255,27.52375 -57.6276,60.65712"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:connector-curvature="0"
+         id="path6264"
+         d="m 1407.462,912.35433 64.1641,66.53485"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6266"
+         d="m 1506.1759,921.55019 -81.7566,44.72667 11.6073,-101.55451"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:connector-curvature="0"
+         id="path6268"
+         d="m 1407.2727,912.29213 97.5734,-19.30575 -75.536,41.04261"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:connector-curvature="0"
+         id="path6270"
+         d="M 1437.0039,866.17397 1411.9888,810.5881"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6272"
+         d="m 1526.15,920.73362 -0.5466,0.54061 34.5505,58.96175 48.8086,-11.35955 17.5492,-55.17526 -30.1631,-47.06126 42.2284,0.54059 12.6136,-57.87985 19.7429,-21.0964 -2.7423,-42.19286 -61.0072,15.96103 -78.0124,57.98578 120.7472,-11.07996 -42.7634,-46.54327 30.3249,104.3046"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6274"
+         d="m 1667.82,745.51052 -16.0828,63.24985"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:connector-curvature="0"
+         id="path6276"
+         d="m 1670.383,787.12305 -64.1643,-24.88299"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path6278"
+         d="m 1527.0419,821.38603 68.5096,44.77319 -66.389,26.05033 57.0347,63.28929"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:connector-curvature="0"
+         id="path6280"
+         d="m 1625.4131,913.70149 -64.1648,66.5349"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6282"
+         d="m 1526.6985,922.89735 81.5701,44.75072 -11.9272,-101.25181"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6284"
+         d="m 1625.6025,913.63929 -95.8041,-21.54992 73.7668,43.28678"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6286"
+         d="m 1595.9981,866.86106 24.8875,-54.92581"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6288"
+         d="m 1507.2391,820.2491 9.4007,-12.90109 9.3949,14.51375"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:connector-curvature="0"
+         id="path6290"
+         d="m 1507.2391,920.23256 9.4007,-8.06315 8.9924,8.8695"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:connector-curvature="0"
+         id="path6292"
+         d="M 1517.0493,912.57257 V 807.34801"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:connector-curvature="0"
+         id="path6294"
+         d="m 1507.2391,819.84594 10.6275,34.67173 8.5834,-33.05905"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path6296"
+         d="m 1511.9092,806.6449 h 8.9696 l 5.6059,5.89802 -0.8645,107.18244 -7.0658,12.29133 -12.6244,-12.94093 0.3731,-106.16422 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     id="g6717"
+     transform="translate(-185.42546,-110.37845)"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <rect
+       ry="53.932873"
+       y="478.3606"
+       x="436.6554"
+       height="420.67642"
+       width="523.14886"
+       id="rect4825"
+       style="opacity:1;fill:#aaa6a4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="610.81116"
+       x="390.99896"
+       height="136.48744"
+       width="45.974716"
+       id="rect4827"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="611.52948"
+       x="957.06268"
+       height="136.48744"
+       width="45.974716"
+       id="rect4827-3"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="638.9751"
+       x="364.10757"
+       height="81.039421"
+       width="27.297489"
+       id="rect4827-6"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="428.34897"
+       x="557.65729"
+       height="51.721558"
+       width="267.22806"
+       id="rect4865"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="631.82928"
+       x="390.98474"
+       height="16.625191"
+       width="45.977493"
+       id="rect4927-6"
+       style="opacity:1;fill:#354d62;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="639.23163"
+       x="1003.2567"
+       height="83.692123"
+       width="27.297489"
+       id="rect4827-6-1"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000008;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="33.950943"
+       cy="652.6687"
+       cx="588.4646"
+       id="path5002"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="33.950943"
+       cy="652.6687"
+       cx="813.61298"
+       id="path5002-3"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5019"
+       d="m 667.08788,719.28408 h 76.83635 l -23.2296,-62.5412 h -37.52472 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="671.61273"
+       x="391.47452"
+       height="16.625191"
+       width="45.977493"
+       id="rect4927-6-0"
+       style="opacity:1;fill:#eebb55;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="710.11475"
+       x="390.98474"
+       height="16.625191"
+       width="45.977493"
+       id="rect4927-6-6"
+       style="opacity:1;fill:#1e757b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="628.01306"
+       x="957.27924"
+       height="16.625191"
+       width="45.977493"
+       id="rect4927-6-2"
+       style="opacity:1;fill:#354d62;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="667.37616"
+       x="957.34875"
+       height="16.625191"
+       width="45.977493"
+       id="rect4927-6-0-6"
+       style="opacity:1;fill:#eebb55;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="706.29852"
+       x="957.27924"
+       height="16.625191"
+       width="45.977493"
+       id="rect4927-6-6-1"
+       style="opacity:1;fill:#1e757b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="scale(-1,1)"
+       y="663.4563"
+       x="-365.19308"
+       height="29.48028"
+       width="48.280445"
+       id="rect5102-9"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="rotate(-90)"
+       y="316.91257"
+       x="-692.93652"
+       height="29.48028"
+       width="197.21179"
+       id="rect5102-9-3"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       transform="scale(-1,1)"
+       r="51.109833"
+       cy="479.77054"
+       cx="-336.53534"
+       id="path5138-2"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="663.81128"
+       x="1029.658"
+       height="29.48028"
+       width="48.280445"
+       id="rect5102-9-7"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="matrix(0,-1,-1,0,0,0)"
+       y="-1077.9385"
+       x="-693.29156"
+       height="29.48028"
+       width="197.21179"
+       id="rect5102-9-3-5"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="51.109833"
+       cy="480.12558"
+       cx="1058.3157"
+       id="path5138-2-9"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="13.084645"
+       cy="654.92969"
+       cx="589.00983"
+       id="path5002-2"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="13.084645"
+       cy="653.62537"
+       cx="816.45227"
+       id="path5002-2-2"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       transform="scale(-1)"
+       d="m -607.11989,-428.34897 a 82.629074,82.629074 0 0 1 -41.31454,71.55888 82.629074,82.629074 0 0 1 -82.62907,0 82.629074,82.629074 0 0 1 -41.31454,-71.55888 l 82.62908,0 z"
+       sodipodi:end="3.1415927"
+       sodipodi:start="0"
+       sodipodi:ry="82.629074"
+       sodipodi:rx="82.629074"
+       sodipodi:cy="-428.34897"
+       sodipodi:cx="-689.74896"
+       sodipodi:type="arc"
+       id="path5274"
+       style="opacity:1;fill:#ffd944;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       transform="scale(-1,1)"
+       d="m -655.60513,770.83746 a 48.603676,48.603676 0 0 1 -24.30183,42.09202 48.603676,48.603676 0 0 1 -48.60368,0 48.603676,48.603676 0 0 1 -24.30184,-42.09202 l 48.60368,0 z"
+       sodipodi:end="3.1415927"
+       sodipodi:start="0"
+       sodipodi:ry="48.603676"
+       sodipodi:rx="48.603676"
+       sodipodi:cy="770.83746"
+       sodipodi:cx="-704.2088"
+       sodipodi:type="arc"
+       id="path5274-8"
+       style="opacity:1;fill:#ffd944;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000008;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="0.80581123"
+       y="770.97406"
+       x="662.16962"
+       height="24.613869"
+       width="1.5298301"
+       id="rect5291"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="scale(1,-1)"
+       ry="1.1529622"
+       y="-806.33105"
+       x="670.89252"
+       height="35.217754"
+       width="1.5298301"
+       id="rect5291-9"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000008;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="1.3847071"
+       y="771.22198"
+       x="680.36456"
+       height="42.296513"
+       width="1.5298301"
+       id="rect5291-9-7"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="scale(-1)"
+       ry="1.5823722"
+       y="-819.24188"
+       x="-702.03717"
+       height="48.334278"
+       width="1.5298301"
+       id="rect5291-9-3"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="scale(-1,1)"
+       ry="1.5210277"
+       y="771.0163"
+       x="-692.56512"
+       height="46.460487"
+       width="1.5298301"
+       id="rect5291-9-7-6"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="scale(-1)"
+       ry="1.4863236"
+       y="-816.3623"
+       x="-722.64893"
+       height="45.400433"
+       width="1.5298301"
+       id="rect5291-9-3-1"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="scale(-1,1)"
+       ry="1.5594473"
+       y="771.07062"
+       x="-713.17688"
+       height="47.634029"
+       width="1.5298301"
+       id="rect5291-9-7-6-2"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="scale(-1)"
+       ry="1.2998248"
+       y="-810.85388"
+       x="-732.33081"
+       height="39.703739"
+       width="1.5298301"
+       id="rect5291-9-3-1-9"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="scale(-1)"
+       ry="0.98894584"
+       y="-801.15009"
+       x="-742.74567"
+       height="30.207798"
+       width="1.5298301"
+       id="rect5291-9-3-1-9-3"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="3.500474"
+       y="766.62457"
+       x="655.36115"
+       height="7.000948"
+       width="97.283867"
+       id="rect5449"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="rotate(-16.227274)"
+       ry="0.69942725"
+       y="545.27704"
+       x="520.20239"
+       height="53.302948"
+       width="3.6302996"
+       id="rect5451"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="matrix(-0.96016077,-0.27944819,-0.27944819,0.96016077,0,0)"
+       ry="0.69942725"
+       y="161.25832"
+       x="-799.25421"
+       height="53.302948"
+       width="3.6302996"
+       id="rect5451-5"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path5609"
+       d="m 653.91111,379.00757 c 7.14153,4.33932 13.8747,2.60397 19.17457,-1.52839 6.98486,3.82352 14.09621,5.93919 21.81454,-0.13907 8.52205,5.18515 16.7662,5.74215 25.28825,1.66733"
+       style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       ry="53.372536"
+       y="478.46936"
+       x="436.76416"
+       height="416.30576"
+       width="517.71362"
+       id="rect4825-9"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#837d7d;stroke-width:11.81548119;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     id="g6083"
+     transform="translate(-767.98136,-42.106165)"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <circle
+       r="150"
+       cy="867.38489"
+       cx="1592.5623"
+       id="path6055"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.74459183;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       transform="matrix(0.64158603,0,0,0.64158603,619.63711,314.09705)"
+       id="g6049">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1505.5559,876.68372 11.6594,-13.80428 8.9907,12.57458"
+         id="path5951"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1523.495,807.75077 12.7065,-28.0156 -8.2216,-5.16076 z"
+         id="path5953"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1509.452,807.74196 -12.7062,-28.01559 8.2216,-5.16077 z"
+         id="path5953-9"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#c83737;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1506.7244,919.38646 0.5467,0.54126 -34.5498,58.96178 -48.8086,-11.35961 -17.5499,-55.17523 30.163,-47.06126 -42.2281,0.54126 -12.6132,-57.87984 -19.7429,-21.09647 2.7416,-42.1928 59.7775,14.60519 80.6166,61.12554 -121.8342,-13.01227 43.3765,-47.41894 -31.2248,105.32866"
+         id="path5972"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#c83737;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1364.8838,744.15802 16.2541,63.2552"
+         id="path5974"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#c83737;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1362.4916,785.77582 64.1648,-24.88294"
+         id="path5976"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#c83737;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1504.5307,820.3956 -67.9255,44.96139 67.9255,27.52375 -57.6276,60.65712"
+         id="path5978"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#c83737;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1407.462,912.35433 64.1641,66.53485"
+         id="path5980"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#c83737;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1506.1759,921.55019 -81.7566,44.72667 11.6073,-101.55451"
+         id="path5982"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#c83737;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1407.2727,912.29213 97.5734,-19.30575 -75.536,41.04261"
+         id="path5984"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#c83737;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1437.0039,866.17397 1411.9888,810.5881"
+         id="path5986"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#162d50;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1526.15,920.73362 -0.5466,0.54061 34.5505,58.96175 48.8086,-11.35955 17.5492,-55.17526 -30.1631,-47.06126 42.2284,0.54059 12.6136,-57.87985 19.7429,-21.0964 -2.7423,-42.19286 -61.0072,15.96103 -78.0124,57.98578 120.7472,-11.07996 -42.7634,-46.54327 30.3249,104.3046"
+         id="path5972-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#162d50;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1667.82,745.51052 -16.0828,63.24985"
+         id="path5974-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#162d50;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1670.383,787.12305 -64.1643,-24.88299"
+         id="path5976-2"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#162d50;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1527.0419,821.38603 68.5096,44.77319 -66.389,26.05033 57.0347,63.28929"
+         id="path5978-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#162d50;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1625.4131,913.70149 -64.1648,66.5349"
+         id="path5980-3"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#162d50;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1526.6985,922.89735 81.5701,44.75072 -11.9272,-101.25181"
+         id="path5982-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#162d50;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1625.6025,913.63929 -95.8041,-21.54992 73.7668,43.28678"
+         id="path5984-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#162d50;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1595.9981,866.86106 24.8875,-54.92581"
+         id="path5986-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1507.2391,820.2491 9.4007,-12.90109 9.3949,14.51375"
+         id="path6086"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1507.2391,920.23256 9.4007,-8.06315 8.9924,8.8695"
+         id="path6088"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1517.0493,912.57257 V 807.34801"
+         id="path6090"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1507.2391,819.84594 10.6275,34.67173 8.5834,-33.05905"
+         id="path6092"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.66633749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1511.9092,806.6449 h 8.9696 l 5.6059,5.89802 -0.8645,107.18244 -7.0658,12.29133 -12.6244,-12.94093 0.3731,-106.16422 z"
+         id="path5947"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:export-filename="/home/sheylabre/Documents/Softbutterfly/Softbutterfly-logo/png/softbutterfly-office-160x39.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+  </g>
+</svg>
